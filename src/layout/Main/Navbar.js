@@ -21,9 +21,7 @@ const Navbar = () => {
             <BiSearchAlt />
           </button>
         </li>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
+
         <li>
           <Link to="/top-rated">Top Rated</Link>
         </li>

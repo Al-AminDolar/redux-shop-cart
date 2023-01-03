@@ -7,7 +7,6 @@ const Main = () => {
   return (
     <div className="px-10">
       <Navbar />
-
       <Outlet />
     </div>
   );
