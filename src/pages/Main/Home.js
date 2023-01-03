@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import ProductCard from "../../components/ProductCard";
 import { toggle, togglebrands } from "../../features/filter/filterSlice";
+import Navbar from "../../layout/Main/Navbar";
 
 const Home = () => {
   const [products, setProducts] = useState([]);
