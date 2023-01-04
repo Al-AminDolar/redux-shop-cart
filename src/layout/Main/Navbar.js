@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { BsFillCartFill } from "react-icons/bs";
-import { IoIosListBox } from "react-icons/io";
 import { BiSearchAlt } from "react-icons/bi";
 
 const Navbar = () => {

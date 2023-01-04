@@ -1,6 +1,6 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
-import LoginPage from "../../pages/Login/LoginPage";
+
 import Navbar from "./Navbar";
 
 const Main = () => {

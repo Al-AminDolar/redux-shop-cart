@@ -65,12 +65,8 @@ const LoginPage = () => {
             <Input.Password />
           </Form.Item>
 
-          <Form.Item>
-            <Button
-              className="flex justify-center"
-              ype="primary"
-              htmlType="submit"
-            >
+          <Form.Item className="pl-[50%]">
+            <Button ype="primary" htmlType="submit">
               Login
             </Button>
           </Form.Item>
